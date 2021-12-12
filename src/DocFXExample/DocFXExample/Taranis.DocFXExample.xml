@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Taranis.DocFXExample</name>
+    </assembly>
+    <members>
+        <member name="T:DocFXExample.Example">
+            <summary>A simple example class with one method which divides two numbers.</summary>
+        </member>
+        <member name="M:DocFXExample.Example.Divide(System.Int32,System.Int32)">
+            <summary>Divides the specified dividend by the divisor, returning the quotient and the remainder as a Tuple.</summary>
+            <param name="dividend">The dividend - the number which will be divided by the divisor.</param>
+            <param name="divisor">The divisor - the number by which the dividend will be divided.</param>
+            <returns>(quotient, remainder)</returns>
+        </member>
+    </members>
+</doc>

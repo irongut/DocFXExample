@@ -14,4 +14,7 @@
     <AssemblyName>Taranis.DocFXExample</AssemblyName>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <DocumentationFile>DocFXExample\Taranis.DocFXExample.xml</DocumentationFile>
+  </PropertyGroup>
 </Project>
