@@ -366,7 +366,7 @@ local.settings.json
 # DocFX
 docfx_project/api/.manifest
 docfx_project/api/*.yml
-_site
+docs
 
 # VS Code
 .vscode
