@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocFXExample", "DocFXExample\DocFXExample.csproj", "{D1FF78EF-7902-430F-A23A-1A2142C26400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{05098475-FFE6-4F4F-8563-997C25DEEA42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1FF78EF-7902-430F-A23A-1A2142C26400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FF78EF-7902-430F-A23A-1A2142C26400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FF78EF-7902-430F-A23A-1A2142C26400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FF78EF-7902-430F-A23A-1A2142C26400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05098475-FFE6-4F4F-8563-997C25DEEA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05098475-FFE6-4F4F-8563-997C25DEEA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05098475-FFE6-4F4F-8563-997C25DEEA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05098475-FFE6-4F4F-8563-997C25DEEA42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F57527A8-2A78-4744-AA40-FB4F02D7932C}
+	EndGlobalSection
+EndGlobal

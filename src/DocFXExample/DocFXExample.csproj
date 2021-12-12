@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/irongut/DocFXExample</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/irongut/DocFXExample</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Description>An example using DocFX with GitHub Actions to generate documentation.</Description>
+    <Authors>irongut</Authors>
+    <Company>Taranis Software</Company>
+    <PackageId>Taranis.DocFXExample</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <AssemblyName>Taranis.DocFXExample</AssemblyName>
+  </PropertyGroup>
+
+</Project>
