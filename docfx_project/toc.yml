@@ -1,5 +1,5 @@
 - name: Home
-  href: /
+  href: /DocFXExample/
 - name: Api Documentation
   href: api/
   homepage: api/index.md
