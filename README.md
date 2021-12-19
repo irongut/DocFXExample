@@ -1,6 +1,6 @@
 # DocFX Example
 
-Demonstrates using DocFX with GitHub Actions to build and publish a documentation site for your .NET code. This repo accompanies my blog post Document your code with DocFX and GitHub Actions.
+Demonstrates using DocFX with GitHub Actions to build and publish a documentation site for your .NET code. This repo accompanies my blog post [Document your .NET code with DocFX and GitHub Actions](https://blog.taranissoftware.com/document-your-net-code-with-docfx-and-github-actions).
 
 <div align="center">
 
